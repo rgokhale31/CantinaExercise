@@ -1,6 +1,6 @@
-# Cantina Exercise
+# JSON ClassName parser
 
-Hi there! This is my submission for the Cantina Code Exercise. First, make sure that you are in the same directory as CantinaExercise.py and SystemViewController.json. 
+First, make sure that you are in the same directory as parser.py and SystemViewController.json. 
 
 To run the program itself, type the command "python parser.py" into the command line (i.e terminal). 
 
